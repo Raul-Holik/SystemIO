@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\bin\Debug\SystemIO.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\bin\Debug\SystemIO.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\bin\Debug\SystemIO.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\obj\Debug\SystemIO.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\obj\Debug\SystemIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\obj\Debug\SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\obj\Debug\SystemIO.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\SystemIO\SystemIO\obj\Debug\SystemIO.pdb
